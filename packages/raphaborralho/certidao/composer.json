@@ -1,0 +1,15 @@
+{
+    "name": "raphaborralho/certidao",
+    "autoload": {
+        "psr-4": {
+            "Raphaborralho\\Certidao\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Raphaell Borralho",
+            "email": "raphaell@tributei.net"
+        }
+    ],
+    "require": {}
+}
